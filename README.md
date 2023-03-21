@@ -1,4 +1,4 @@
-# Predicition-using-Decision-Tree
+# Prediction-using-Decision-Tree
 
 👉 Create the Decision Tree classifier and visualize it graphically. 
 
